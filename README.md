@@ -1,1 +1,3 @@
-# DNSC_6317
+## Business Analytics Practicum 
+
+## Course Description
